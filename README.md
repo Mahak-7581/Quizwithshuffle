@@ -20,20 +20,30 @@ The options for each question are **shuffled randomly** each time, making the qu
 Follow these steps to run the project on your local machine:
 
 ### 1️⃣ **Navigate to the Project Folder**
+
 Open your terminal (Git Bash / Command Prompt) and go to the project folder:
 ```bash
 cd Quizwithshuffle
+```
 
 ### 2️⃣ **Compile the C++ Code**
+
 Compile your code into an executable program:
 ```bash
 g++ quiz.cpp -o quiz
+```
 
 ### 3️⃣ **Run the Program**
+
 Start the program:
+For linux / Mac:
 ```bash
-./quiz       # Linux / Mac
-quiz.exe     # Windows
+./quiz       
+```
+For Windows:
+```bash
+quiz.exe    
+```
 
 
 
