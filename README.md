@@ -30,19 +30,20 @@ cd Quizwithshuffle
 
 Compile your code into an executable program:
 ```bash
-g++ quiz.cpp -o quiz
+g++ Quizwithshuffle.cpp -o Quizwithshuffle
 ```
 
 ### 3️⃣ **Run the Program**
 
 Start the program:
+
 For linux / Mac:
 ```bash
-./quiz       
+./Quizwithshuffle      
 ```
 For Windows:
 ```bash
-quiz.exe    
+Quizwithshuffle.exe    
 ```
 
 
