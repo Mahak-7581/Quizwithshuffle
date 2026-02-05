@@ -23,6 +23,7 @@ Follow these steps to run the project on your local machine:
 
 Open your terminal (Git Bash / Command Prompt) and go to the project folder:
 ```bash
+git clone https://github.com/Mahak-7581/Quizwithshuffle.git
 cd Quizwithshuffle
 ```
 
