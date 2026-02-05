@@ -24,12 +24,12 @@ Open your terminal (Git Bash / Command Prompt) and go to the project folder:
 ```bash
 cd Quizwithshuffle
 
-2️⃣ **Compile the C++ Code**
+###2️⃣ **Compile the C++ Code**
 Compile your code into an executable program:
 ```bash
 g++ quiz.cpp -o quiz
 
-3️⃣ **Run the Program**
+###3️⃣ **Run the Program**
 Start the program:
 ```bash
 ./quiz       # Linux / Mac
