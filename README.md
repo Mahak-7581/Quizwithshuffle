@@ -24,6 +24,9 @@ Follow these steps to run the project on your local machine:
 Open your terminal (Git Bash / Command Prompt) and go to the project folder:
 ```bash
 git clone https://github.com/Mahak-7581/Quizwithshuffle.git
+```
+
+```bash
 cd Quizwithshuffle
 ```
 
@@ -38,13 +41,13 @@ g++ Quizwithshuffle.cpp -o Quizwithshuffle
 
 Start the program:
 
-For linux / Mac:
+For Git Bash / linux / Mac:
 ```bash
-./Quizwithshuffle      
+./Project      
 ```
-For Windows:
+For Windows(CMD):
 ```bash
-Quizwithshuffle.exe    
+Project.exe    
 ```
 
 
